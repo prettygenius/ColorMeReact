@@ -9,7 +9,7 @@ function Square({colorValue}) {
   )
 }
 
-Sqaure.defaultProps = {
+Square.defaultProps = {
   color: 'Empty Color Value'
 }
 export default Square
